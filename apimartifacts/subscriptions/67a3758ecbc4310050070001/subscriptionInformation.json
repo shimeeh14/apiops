@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/subscriptions/5e21c10d-67f7-41e0-8c0c-522d28a8ff94/resourceGroups/dev-apiops-rg/providers/Microsoft.ApiManagement/service/apim-apiops-dev-01/products/starter",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/5e21c10d-67f7-41e0-8c0c-522d28a8ff94/resourceGroups/dev-apiops-rg/providers/Microsoft.ApiManagement/service/apim-apiops-dev-01/users/1",
+    "state": "active"
+  }
+}
