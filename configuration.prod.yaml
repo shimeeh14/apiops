@@ -4,10 +4,10 @@ namedValues:
     properties:
       displayName: plainvalue
       value: "https://www.PROD.search2.com"
-- name: secret
-  properties:
-    displayName: secret
-    value: "PRODsecret"
+  - name: secret
+    properties:
+      displayName: secret
+      value: "PRODsecret"
 loggers:
 diagnostics:
 backends:
